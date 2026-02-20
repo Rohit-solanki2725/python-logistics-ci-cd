@@ -85,15 +85,15 @@ manual intervention, and enforces consistent deployment practices.
 
 ------------------------------------------------------------------------
 
-## Group Members
+## 👨‍💻 Group Members
 
-  Student Name    Email                          Mobile
-  --------------- ------------------------------ ------------
-  ROHIT SOLANKI   EN22IT301083@medicaps.ac.in    8817011303
-  KUNAL SHINDE    EN23IT3L1001@medicaps.ac.in    9589039460
-  SUMIT LAKHERA   EN22IT301110@medicaps.ac.in    6261442908
-  PIYUSH RAMJE    EN22IT301069@medicaps.ac.in    8959083851
-  RUPALI PAL      EN24CA5030144@medicaps.ac.in   6261347192
+| Student Name | Email | Mobile |
+|---|---|---|
+| ROHIT SOLANKI | EN22IT301083@medicaps.ac.in | 8817011303 |
+| KUNAL SHINDE | EN23IT3L1001@medicaps.ac.in | 9589039460 |
+| SUMIT LAKHERA | EN22IT301110@medicaps.ac.in | 6261442908 |
+| PIYUSH RAMJE | EN22IT301069@medicaps.ac.in | 8959083851 |
+| RUPALI PAL | EN24CA5030144@medicaps.ac.in | 6261347192 |
 
 ------------------------------------------------------------------------
 
